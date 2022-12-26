@@ -1,1 +1,1 @@
-#Algorithms
+#QuickSort~Algorithms
